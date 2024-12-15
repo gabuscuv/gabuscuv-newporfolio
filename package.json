@@ -50,7 +50,7 @@
     "eslint-config-next": "^14",
     "eslint-plugin-node": "^11",
     "eslint-plugin-prettier": "^5",
-    "gts": "^5",
+    "gts": "^6",
     "pdfkit": "^0.15.1",
     "postcss": "^8",
     "tailwindcss": "^3",
