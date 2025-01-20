@@ -21,7 +21,7 @@
     "@mdx-js/loader": "^3",
     "@mdx-js/react": "^3",
     "@next/mdx": "^14",
-    "@next/third-parties": "^14",
+    "@next/third-parties": "^15",
     "@types/mdx": "^2",
     "eslint-plugin-n": "^17",
     "esrun": "^3",
